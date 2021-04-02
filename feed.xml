@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>star</title>
+    <link href="https://xtrader.top/feed.xml" rel="self" />
+    <link href="https://xtrader.top" />
+    <updated>2021-04-02T18:22:30+08:00</updated>
+    <author>
+        <name>star</name>
+    </author>
+    <id>https://xtrader.top</id>
+
+    <entry>
+        <title>第一篇</title>
+        <author>
+            <name>star</name>
+        </author>
+        <link href="https://xtrader.top/di-yi-pian.html"/>
+        <id>https://xtrader.top/di-yi-pian.html</id>
+
+        <updated>2021-04-02T18:22:30+08:00</updated>
+            <summary>
+                <![CDATA[
+                     哈哈 啧啧啧 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    哈哈
+  </p>
+
+  <p>
+    啧啧啧
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

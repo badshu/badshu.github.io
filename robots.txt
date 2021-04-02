@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xtrader.top/sitemap.xml

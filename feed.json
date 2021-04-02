@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "star",
+    "description": "",
+    "home_page_url": "https://xtrader.top",
+    "feed_url": "https://xtrader.top/feed.json",
+    "user_comment": "",
+    "icon": "https://xtrader.top/media/website/1280px-Chinese_dragon_asset_heraldry.svg.png",
+    "author": {
+        "name": "star"
+    },
+    "items": [
+        {
+            "id": "https://xtrader.top/di-yi-pian.html",
+            "url": "https://xtrader.top/di-yi-pian.html",
+            "title": "第一篇",
+            "summary": " 哈哈 啧啧啧 ",
+            "content_html": "\n  <p>\n    哈哈\n  </p>\n\n  <p>\n    啧啧啧\n  </p>",
+            "author": {
+                "name": "star"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-02T18:22:30+08:00",
+            "date_modified": "2021-04-02T18:22:30+08:00"
+        }
+    ]
+}
